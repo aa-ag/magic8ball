@@ -1,0 +1,15 @@
+* {
+    padding: 2px;
+    margin: 2px;
+}
+
+.form-group, fieldset {
+    display: block;
+    width: 50%;
+    text-align: center;
+    margin: auto;
+}
+
+.learnmore {
+    margin-top: 5vh;
+}
